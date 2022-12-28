@@ -8,7 +8,7 @@ const router = createBrowserRouter([
         element: <Home />,
     },
     {
-        path: "/SecondPage",
+        path: "/second",
         element: <SecondPage />,
     },
 ]);
